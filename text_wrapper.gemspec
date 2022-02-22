@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["YasminMorshed"]
   spec.email = ["snowmoss10@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "This is an exercise where one must create a Gem."
+  spec.description = "This gem will be a text wrapper gem for Ruby."
   spec.homepage = "https://github.com/YasminMorshed/text_wrapper.git"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
